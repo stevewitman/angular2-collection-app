@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=nvD2Dvzj8_E&list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc&index=1
+
 # CollectionApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
